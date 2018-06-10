@@ -4,34 +4,20 @@
 
 Régulièrement, j'ai regardé les classements des dix meilleurs temps
 sur les circuits disponibles en mode sport, et je les ai compilés
-ci-dessus, afin de permettre à chacun et chacune de voir quelle
-voiture est la plus performante, et où. 
+ci-dessus, afin de permettre à chacun et chacune de voir quelles
+voitures sont à priori les plus performantes, et où. 
 
-Évidemment, ces statistiques ne sont qu'indicatives, et elles
-indiquent juste ce qu'utilisent les meilleurs joueurs sur tel ou tel
-circuit, pas forcément que vous ferez un meilleur temps avec (elle est
-peut-être plus dure à manier, par exemple, ou reflète simplement une
-préférence d'un joueur très doué). 
-
-Pour chaque circuit, sont donc indiquées :
-
-* les voitures présentes dans les meilleurs temps ;
-* le meilleur temps au tour pour cette voiture ;
-* le nombre de voitures présentes.
-
-(Il peut y avoir plus de dix voitures présentes par circuit, soit
-parce que celui-ci a été proposé plusieurs fois, soit parce que j'ai
-regardé les meilleurs temps à des moments différents de la journée.)
-
-(Pour qu'il y ait plus de données, j'ai aussi parfois noté les
-meilleurs résultats des courses *one-make* lorsque celles-ci
-utilisaient l'équilibre des performances ; lorsque c'est le cas, c'est
-indiqué d'une astérisque).
+**Ces statistiques ne prennent en compte que les courses en mode sport
+et avec l'équilibre des performances. Cet équilibrage pouvant varier
+d'une version à l'autre, elles ne concernent que les versions 1.19 et 1.20.**
 
 En plus de ces statistiques, j'ai également fait un petit classement
-aux points assez discutable, où chaque voiture dans les six premières
+aux points, où chaque voiture dans les six premières
 d'un circuit marque des points selon
-son classement (10/6/4/3/2/1, sauf pour le groupe 2 où c'est juste 4/2/1).
+son classement (10/6/4/3/2/1, sauf pour le groupe 2 où c'est juste
+4/2/1). La méthodologie est assez discutable et les résultats ne sont
+évidemment qu'indicatifs, mais si cela peut vous aider à choisir un
+constructeur pour les championnats FIA...
 
 
 ## Groupe 2
