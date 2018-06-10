@@ -1,4 +1,4 @@
-# Statistiques voitures
+# Meilleurs temps par circuits (Gran Turismo Sport)
 
 ## Approche
 
@@ -98,10 +98,12 @@ constructeur pour les championnats FIA...
 
 ### Circuit de la Sarthe
 
-* 458 Italia GT3 '13 : 3:55.400
+* Mustang Gr.3 : 3:53.968
+* 458 Italia GT3 '13 : 3:54.737
+* Viper SRT GT3-R '16 : 3:55.860
 * PEUGEOT VGT (Gr.3) : 3:55.868
-* Viper SRT GT3-R '16 : 3:56.417
-* Mustang Gr.3 : 3:56.953
+* 911 RSR (991) '17: 3:56.055
+* Corvette C7 Gr.3 : 3:56.363
 * M6 GT3 : 3:57.794
 * SLS AM GT3 '11 : 3:59.956
 
@@ -154,10 +156,10 @@ constructeur pour les championnats FIA...
 ### Kyoto Driving Park - Yamagiwa 
 
 * Mégane Trophy '11 : 1:39.287
-* TT Cup '16 : 1:39.471
+* TT Cup '16 : 1:39.317
+* Huracan Gr.4 : 1:39.353
 * M4 Gr.4 : 1:40.038
 * Mégane Gr.4 : 1:40.367
-* Huracan Gr.4 : 1:40.481
 * Atenza Gr.4 : 1:40.616
 * Lancer Evolution Final Edition Gr.4 : 1:40.637
 
