@@ -110,16 +110,18 @@ constructeur pour les championnats FIA...
 
 ### Global 
 
-* Corvette C7 Gr.3 : 22 pts
-* 911 RSR (991) '17 : 17 pts
+* Corvette C7 Gr.3 : 23 pts
+* 911 RSR (991) '17 : 19 pts
 * R.S.01 GT3 '16 : 16 pts
-* 458 Italia GT3 '13 : 10 pts
+* 458 Italia GT3 '13 : 16 pts
+* Mustang Gr.3 : 16 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
-* Mustang Gr.3 : 6 pts
 * WRX GR.3 : 4 pts
 * GR Supra Racing Concept '18 : 4 pts
+* Viper SRT GT3-R '16 : 4 pts
 * NSX Gr.3 : 3 pts
 * V12 Vantage GT3 '12 : 3 pts
+* PEUGEOT VGT (Gr.3) : 3 pts
 * SLS AMG GT3 '11 : 2 pts
 * M6 GT3 : 2 pts
 * Lancer Evolution Final Edition Gr.3 : 1 pt
@@ -155,8 +157,8 @@ constructeur pour les championnats FIA...
 
 ### Kyoto Driving Park - Yamagiwa 
 
-* Mégane Trophy '11 : 1:39.287
-* TT Cup '16 : 1:39.317
+* TT Cup '16 : 1:38.922
+* Mégane Trophy '11 : 1:38.961
 * Huracan Gr.4 : 1:39.353
 * M4 Gr.4 : 1:40.038
 * Mégane Gr.4 : 1:40.367
@@ -165,11 +167,13 @@ constructeur pour les championnats FIA...
 
 ### Global
 
+* Mégane Trophy '11 : 22 pts
 * Lancer Evolution Final Edition Gr.4 : 16 pts
-* Mégane Trophy '11 : 16 pts
-* Mégane Gr.4 : 11 pts
-* Atenza Gr.4 : 10 pts
+* Mégane Gr.4 : 13 pts
+* Atenza Gr.4 : 11 pts
+* TT Cup '16 : 10 pts
 * Viper Gr.4 : 10 pts
-* Huracán Gr.4 : 5 pts
+* Huracán Gr.4 : 9 pts
 * Veyron Gr.4 : 4 pts
 * Mustang Gr.4 : 2 pts
+* M4 Gr.4 : 3 pts
