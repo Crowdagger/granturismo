@@ -108,6 +108,19 @@ constructeur pour les championnats FIA...
 * SLS AM GT3 '11 : 3:59.956
 
 
+### Dragon Trail - Seaside
+
+* 458 Italia GT3 '16 : 1:37.197
+* R.S.01 GT3 '16 : 1:37.225
+* Corvette C7 Gr.3 : 1:37.233
+* M6 GT3 M : 1:37.377
+* Mustang Gr.3 : 1:37.384
+* GR Supra Racing Concpet '18 : 1:37.470
+* Mercedes-AMG GT3 '16 : 1:37.547
+* RC F GT3 (Emil Frey Racing) '17 : 1:37.617
+* FT-1 VGT (Gr.3) : 1:37.651
+
+
 ### Global 
 
 * Corvette C7 Gr.3 : 23 pts
