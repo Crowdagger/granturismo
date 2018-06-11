@@ -25,7 +25,7 @@ constructeur pour les championnats FIA...
 ### Nürburgring GP
 
 * Raybrig NSX Concept-GT '16 : 1:45.837
-* au TOM'S RC F'16 : 1:46.554
+* au TOM'S RC F'16 : 1:46.384
 
 ### Brands Hatch Grand Prix Circuit
 
@@ -110,12 +110,12 @@ constructeur pour les championnats FIA...
 
 ### Dragon Trail - Seaside
 
-* 458 Italia GT3 '16 : 1:37.197
-* R.S.01 GT3 '16 : 1:37.225
-* Corvette C7 Gr.3 : 1:37.233
+* GR Supra Racing Concpet '18 : 1:36.293
+* Mustang Gr.3 : 1:36.730
+* Corvette C7 Gr.3 : 1:36.824
+* R.S.01 GT3 '16 : 1:36.954
+* 458 Italia GT3 '16 : 1:36.963
 * M6 GT3 M : 1:37.377
-* Mustang Gr.3 : 1:37.384
-* GR Supra Racing Concpet '18 : 1:37.470
 * Mercedes-AMG GT3 '16 : 1:37.547
 * RC F GT3 (Emil Frey Racing) '17 : 1:37.617
 * FT-1 VGT (Gr.3) : 1:37.651
@@ -123,23 +123,22 @@ constructeur pour les championnats FIA...
 
 ### Global 
 
-* Corvette C7 Gr.3 : 23 pts
+* Corvette C7 Gr.3 : 27 pts
+* Mustang Gr.3 : 22 pts
 * 911 RSR (991) '17 : 19 pts
-* R.S.01 GT3 '16 : 16 pts
-* 458 Italia GT3 '13 : 16 pts
-* Mustang Gr.3 : 16 pts
+* R.S.01 GT3 '16 : 19 pts
+* 458 Italia GT3 '13 : 18 pts
+* GR Supra Racing Concept '18 : 14 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
 * WRX GR.3 : 4 pts
-* GR Supra Racing Concept '18 : 4 pts
 * Viper SRT GT3-R '16 : 4 pts
 * NSX Gr.3 : 3 pts
 * V12 Vantage GT3 '12 : 3 pts
 * PEUGEOT VGT (Gr.3) : 3 pts
+* M6 GT3 : 3 pts
 * SLS AMG GT3 '11 : 2 pts
-* M6 GT3 : 2 pts
 * Lancer Evolution Final Edition Gr.3 : 1 pt
 * Mercedes-AMG GT GT3 '16 : 1 pt
-
 
 ## Groupe 4
 
