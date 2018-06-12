@@ -45,14 +45,16 @@ constructeur pour les championnats FIA...
 
 ### Autodromo Lago Maggiore - GP
 
+* RAYBRIG NSX CONCEPT-GT '16: 1:43.941
+* MOTUL AUTECH GT-R '16 : 1:44.255
 * au TOM'S RC F '16 : 1:44.694
-* RAYBRIG NSX CONCEPT-GT '16: 1:44.743
+
 
 ### Global
 
-* au TOM'S RC F'16 : 10 pts
-* Raybrig NSX Concept-GT '16 : 9 pts
-* MOTUL AUTECH GT-R '16 : 6 pts
+* Raybrig NSX Concept-GT '16 : 13 pts
+* au TOM'S RC F'16 : 11 pts
+* MOTUL AUTECH GT-R '16 : 8 pts
 
 ## Groupe 3
 
@@ -184,23 +186,27 @@ constructeur pour les championnats FIA...
 
 ### Blue Moon Bay Speedway - Infield A
 
-* Cayman GT4 Clubsport '16 : 110.953
-* Mégane Trophy '11 : 1:11.007
+* Mégane Trophy '11 : 1:10.828
+* Cayman GT4 Clubsport '16 : 1:10.853
+* Viper Gr.4 : 1:11.021
+* 86 Gr.4 : 1:11.189
 * 4C Gr.4 1:11.363
-* Viper Gr.4 : 1:11.538
- * Veyron Gr.4 : 1:11.766
+* Veyron Gr.4 : 1:11.766
 * Mégane Gr.4 : 1:12.033
 * TT Cup '16 : 1:12.118
 
 ### Global
 
-* Mégane Trophy '11 : 22 pts
+* Mégane Trophy '11 : 32 pts
 * Lancer Evolution Final Edition Gr.4 : 16 pts
+* Viper Gr.4 : 14 pts
 * Mégane Gr.4 : 13 pts
 * Atenza Gr.4 : 11 pts
 * TT Cup '16 : 10 pts
-* Viper Gr.4 : 10 pts
 * Huracán Gr.4 : 9 pts
-* Veyron Gr.4 : 4 pts
-* Mustang Gr.4 : 2 pts
+* Cayman GT4 Clubsport '16 : 6 pts
+* Veyron Gr.4 : 5 pts
+* 86 Gr.4 : 13 pts
 * M4 Gr.4 : 3 pts
+* Mustang Gr.4 : 2 pts
+* 4C Gr.4 2 pts
