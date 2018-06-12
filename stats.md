@@ -43,6 +43,11 @@ constructeur pour les championnats FIA...
 * MOTUL AUTECH GT-R '16 : 1:27.605
 * RAYBRIG NSX CONCEPT-GT '16 : 1:28.378
 
+### Autodromo Lago Maggiore - GP
+
+* au TOM'S RC F '16 : 1:44.694
+* RAYBRIG NSX CONCEPT-GT '16: 1:44.743
+
 ### Global
 
 * au TOM'S RC F'16 : 10 pts
@@ -176,6 +181,16 @@ constructeur pour les championnats FIA...
 * Mégane Gr.4 : 1:40.367
 * Atenza Gr.4 : 1:40.616
 * Lancer Evolution Final Edition Gr.4 : 1:40.637
+
+### Blue Moon Bay Speedway - Infield A
+
+* Cayman GT4 Clubsport '16 : 110.953
+* Mégane Trophy '11 : 1:11.007
+* 4C Gr.4 1:11.363
+* Viper Gr.4 : 1:11.538
+ * Veyron Gr.4 : 1:11.766
+* Mégane Gr.4 : 1:12.033
+* TT Cup '16 : 1:12.118
 
 ### Global
 
