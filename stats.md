@@ -128,6 +128,21 @@ constructeur pour les championnats FIA...
 * FT-1 VGT (Gr.3) : 1:37.651
 
 
+### Nurburgring GP
+
+* R.S.01 GT3 '16 : 1:54.667
+* RC F GT3 (Emil Frey Racing) '17 : 1:54.848
+* Atenza Gr.3 : 1:54.920
+* GR Supra Racing Concept '18 : 1:55.178
+* Lancer Evolution Final Edition Gr.3 : 1:55.220
+* Mercedes-AMG GT GT3 '16 : 1:55.244
+* M6 GT3 : 1:55.257
+* 911 RSR (991) '16 : 1:55.580 
+
+
+
+
+
 ### Global 
 
 * Corvette C7 Gr.3 : 27 pts
