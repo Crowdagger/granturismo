@@ -130,37 +130,40 @@ constructeur pour les championnats FIA...
 
 ### Nurburgring GP
 
-* R.S.01 GT3 '16 : 1:54.667
-* RC F GT3 (Emil Frey Racing) '17 : 1:54.848
-* Atenza Gr.3 : 1:54.920
+* Lancer Evolution Final Edition Gr.3 : 1:54.568
+* 911 RSR (991) '16 : 1:54.590
+* R8 LMS (Audi Sport Team WRT) '15 : 1:54.606
+* R.S.01 GT3 '16 : 1:54.657
+* NSX Gr.3 : 1:56.669
+* 650S GT3 '15 : 1:54.714
+* RC F GT3 (Emil Frey Racing) '17 : 1:54.758
+* Viper SRT GT3-R '15 : 1:54.823
+* Atenza Gr.3 : 1:54.877
 * GR Supra Racing Concept '18 : 1:55.178
-* Lancer Evolution Final Edition Gr.3 : 1:55.220
 * Mercedes-AMG GT GT3 '16 : 1:55.244
 * M6 GT3 : 1:55.257
-* 911 RSR (991) '16 : 1:55.580 
-
-
-
 
 
 ### Global 
 
 * Corvette C7 Gr.3 : 27 pts
+* 911 RSR (991) '17 : 25 pts
 * Mustang Gr.3 : 22 pts
-* 911 RSR (991) '17 : 19 pts
-* R.S.01 GT3 '16 : 19 pts
+* R.S.01 GT3 '16 : 22 pts
 * 458 Italia GT3 '13 : 18 pts
 * GR Supra Racing Concept '18 : 14 pts
+* Lancer Evolution Final Edition Gr.3 : 11 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
+* NSX Gr.3 : 5 pts
 * WRX GR.3 : 4 pts
 * Viper SRT GT3-R '16 : 4 pts
-* NSX Gr.3 : 3 pts
+* R8 LMS (Audi Sport Team WRT) '15 : 4 pts
 * V12 Vantage GT3 '12 : 3 pts
 * PEUGEOT VGT (Gr.3) : 3 pts
 * M6 GT3 : 3 pts
 * SLS AMG GT3 '11 : 2 pts
-* Lancer Evolution Final Edition Gr.3 : 1 pt
 * Mercedes-AMG GT GT3 '16 : 1 pt
+* 650S GT3 '15 : 1 pt
 
 ## Groupe 4
 
