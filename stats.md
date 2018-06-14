@@ -213,18 +213,29 @@ constructeur pour les championnats FIA...
 * Mégane Gr.4 : 1:12.033
 * TT Cup '16 : 1:12.118
 
+### Autodromo Nazionale Monza
+
+* Veyron Gr.4 : 1:54.658
+* TT Cup '16: 1:56.518
+* Mustang Gr.4 : 1:56.695
+* Mégane Gr.4 : 1:56.779
+* 458 Italia Gr.4 : 1:56.887
+* Vantage Gr.4 : 1:57.616
+* Huracan Gr.4 : 1:57.624
+
 ### Global
 
 * Mégane Trophy '11 : 32 pts
+* TT Cup '16 : 16 pts
 * Lancer Evolution Final Edition Gr.4 : 16 pts
+* Mégane Gr.4 : 16 pts
+* Veyron Gr.4 : 15 pts
 * Viper Gr.4 : 14 pts
-* Mégane Gr.4 : 13 pts
 * Atenza Gr.4 : 11 pts
-* TT Cup '16 : 10 pts
 * Huracán Gr.4 : 9 pts
 * Cayman GT4 Clubsport '16 : 6 pts
-* Veyron Gr.4 : 5 pts
 * 86 Gr.4 : 13 pts
+* Mustang Gr.4 : 7 pts
 * M4 Gr.4 : 3 pts
-* Mustang Gr.4 : 2 pts
 * 4C Gr.4 2 pts
+* 458 Italia Gr.4 : 2 pts
