@@ -130,8 +130,8 @@ constructeur pour les championnats FIA...
 
 ### Nurburgring GP
 
+* 911 RSR (991) '16 : 1:54.389
 * Lancer Evolution Final Edition Gr.3 : 1:54.568
-* 911 RSR (991) '16 : 1:54.590
 * R8 LMS (Audi Sport Team WRT) '15 : 1:54.606
 * R.S.01 GT3 '16 : 1:54.657
 * NSX Gr.3 : 1:56.669
@@ -146,14 +146,14 @@ constructeur pour les championnats FIA...
 
 ### Global 
 
+* 911 RSR (991) '17 : 29 pts
 * Corvette C7 Gr.3 : 27 pts
-* 911 RSR (991) '17 : 25 pts
 * Mustang Gr.3 : 22 pts
 * R.S.01 GT3 '16 : 22 pts
 * 458 Italia GT3 '13 : 18 pts
 * GR Supra Racing Concept '18 : 14 pts
-* Lancer Evolution Final Edition Gr.3 : 11 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
+* Lancer Evolution Final Edition Gr.3 : 7 pts
 * NSX Gr.3 : 5 pts
 * WRX GR.3 : 4 pts
 * Viper SRT GT3-R '16 : 4 pts
