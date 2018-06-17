@@ -20,6 +20,13 @@ son classement (10/6/4/3/2/1, sauf pour le groupe 2 où c'est juste
 constructeur pour les championnats FIA...
 
 
+## Groupe 1
+
+* R18 (Audi Sport Team Joest) '16 : 3:19.016
+* SRT Tomahawk VGT (Gr.1) : 3:19.648
+* 919 Hypbrid (Porsche Team) '16 : 3:19.892
+
+
 ## Groupe 2
 
 ### Nürburgring GP
@@ -48,6 +55,10 @@ constructeur pour les championnats FIA...
 * RAYBRIG NSX CONCEPT-GT '16: 1:43.941
 * MOTUL AUTECH GT-R '16 : 1:44.255
 * au TOM'S RC F '16 : 1:44.694
+
+### Willow Springs Internatinoal Raceway: Big Willow
+
+* RAYBRIG NSX CONCEPT-GT '16: 1:02.434
 
 
 ### Global
@@ -105,14 +116,16 @@ constructeur pour les championnats FIA...
 
 ### Circuit de la Sarthe
 
-* Mustang Gr.3 : 3:53.968
-* 458 Italia GT3 '13 : 3:54.737
-* Viper SRT GT3-R '16 : 3:55.860
-* PEUGEOT VGT (Gr.3) : 3:55.868
+* Mustang Gr.3 : 3:53.364
+* GT-R NISMO GT3 N24 Schulze Motorsport'13 : 3:54.246 *
+* Viper SRT GT3-R '16 : 3:54.606 *
+* 458 Italia GT3 '13 : 3:54.674
+* Corvette C7 Gr.3 : 3:55.630 *
+* PEUGEOT VGT (Gr.3) : 3:55.418 *
+* SLS AM GT3 '11 : 3:55.853 *
 * 911 RSR (991) '17: 3:56.055
-* Corvette C7 Gr.3 : 3:56.363
 * M6 GT3 : 3:57.794
-* SLS AM GT3 '11 : 3:59.956
+
 
 
 ### Dragon Trail - Seaside
@@ -144,26 +157,35 @@ constructeur pour les championnats FIA...
 * M6 GT3 : 1:55.257
 
 
+### Dragon Trail - Gardens 
+
+* Lancer Evolution Final Edition Gr.3 : 1:30.723
+* 911 RSR (991) '17 : 1:30.739
+* R8 LMS (Audi Sport Team WRT) '15 : 1:31.045
+* Beetle Gr.3 : 1:31.118
+* RS.01 GT3 '16 : 1:31.246
+
 ### Global 
 
-* 911 RSR (991) '17 : 29 pts
-* Corvette C7 Gr.3 : 27 pts
+* Corvette C7 Gr.3 : 28 pts
+* 911 RSR (991) '17 : 27 pts
 * Mustang Gr.3 : 22 pts
 * R.S.01 GT3 '16 : 22 pts
-* 458 Italia GT3 '13 : 18 pts
+* 458 Italia GT3 '13 : 15 pts
 * GR Supra Racing Concept '18 : 14 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
 * Lancer Evolution Final Edition Gr.3 : 7 pts
+* GT-R NISMO GT3 N24 Schulze Motorsport '13 : 6 pts
 * NSX Gr.3 : 5 pts
 * WRX GR.3 : 4 pts
 * Viper SRT GT3-R '16 : 4 pts
 * R8 LMS (Audi Sport Team WRT) '15 : 4 pts
 * V12 Vantage GT3 '12 : 3 pts
-* PEUGEOT VGT (Gr.3) : 3 pts
 * M6 GT3 : 3 pts
 * SLS AMG GT3 '11 : 2 pts
 * Mercedes-AMG GT GT3 '16 : 1 pt
 * 650S GT3 '15 : 1 pt
+* PEUGEOT VGT (Gr.3) : 1 pt
 
 ## Groupe 4
 
@@ -179,7 +201,8 @@ constructeur pour les championnats FIA...
 ### Autodromo de Interlagos
 
 * Mégane Trophy '11 : 1:36.544
-* Lancer Evolution Final Edition Gr.4 : 1:36.805
+* Lancer Evolution Final Edition Gr.4 : 1:36.589
+* Viper Gr.4 : 1:36.958 
 * Atenza Gr.4 : 1:37.337
 * Huracan Gr.4 : 1:37.367
 * Mustang Gr.4 : 1:37.412
@@ -223,19 +246,26 @@ constructeur pour les championnats FIA...
 * Vantage Gr.4 : 1:57.616
 * Huracan Gr.4 : 1:57.624
 
+
+### Alsace - Village
+
+* Mégane Trophy '11 : 1:57.776
+* 4C Gr.4 : 1:58.446
+* Lancer Evolution Final Edition Gr.4 : 1:58.931
+
 ### Global
 
-* Mégane Trophy '11 : 32 pts
+* Mégane Trophy '11 : 42 pts
+* Lancer Evolution Final Edition Gr.4 : 20 pts
+* Viper Gr.4 : 18 pts
 * TT Cup '16 : 16 pts
-* Lancer Evolution Final Edition Gr.4 : 16 pts
-* Mégane Gr.4 : 16 pts
+* Mégane Gr.4 : 15 pts
 * Veyron Gr.4 : 15 pts
-* Viper Gr.4 : 14 pts
-* Atenza Gr.4 : 11 pts
-* Huracán Gr.4 : 9 pts
-* Cayman GT4 Clubsport '16 : 6 pts
 * 86 Gr.4 : 13 pts
-* Mustang Gr.4 : 7 pts
+* Atenza Gr.4 : 10 pts
+* Huracán Gr.4 : 8 pts
+* 4C Gr.4 8 pts
+* Cayman GT4 Clubsport '16 : 6 pts
+* Mustang Gr.4 : 6 pts
 * M4 Gr.4 : 3 pts
-* 4C Gr.4 2 pts
 * 458 Italia Gr.4 : 2 pts
