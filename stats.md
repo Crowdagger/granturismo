@@ -22,9 +22,11 @@ constructeur pour les championnats FIA...
 
 ## Groupe 1
 
-* R18 (Audi Sport Team Joest) '16 : 3:19.016
+* GT-R LM NISMO '15 : 3:15.759
+* R18 (Audi Sport Team Joest) '16 : 3:18.016
+* 919 Hypbrid (Porsche Team) '16 : 3:18.193
 * SRT Tomahawk VGT (Gr.1) : 3:19.648
-* 919 Hypbrid (Porsche Team) '16 : 3:19.892
+
 
 
 ## Groupe 2
@@ -159,33 +161,36 @@ constructeur pour les championnats FIA...
 
 ### Dragon Trail - Gardens 
 
+* 911 RSR (991) '17 : 1:29.773
+* RS.01 GT3 '16 : 1:29.864
+* 458 Italia GT3 '16 : 1:30.017
 * Lancer Evolution Final Edition Gr.3 : 1:30.723
-* 911 RSR (991) '17 : 1:30.739
 * R8 LMS (Audi Sport Team WRT) '15 : 1:31.045
 * Beetle Gr.3 : 1:31.118
-* RS.01 GT3 '16 : 1:31.246
+
 
 ### Global 
 
 * Corvette C7 Gr.3 : 28 pts
-* 911 RSR (991) '17 : 27 pts
+* 911 RSR (991) '17 : 37 pts
 * Mustang Gr.3 : 22 pts
-* R.S.01 GT3 '16 : 22 pts
-* 458 Italia GT3 '13 : 15 pts
+* R.S.01 GT3 '16 : 28 pts
+* 458 Italia GT3 '13 : 19 pts
 * GR Supra Racing Concept '18 : 14 pts
 * RC F GT3 (Emil Frey Racing) '17 : 10 pts
-* Lancer Evolution Final Edition Gr.3 : 7 pts
+* Lancer Evolution Final Edition Gr.3 : 10 pts
 * GT-R NISMO GT3 N24 Schulze Motorsport '13 : 6 pts
 * NSX Gr.3 : 5 pts
 * WRX GR.3 : 4 pts
 * Viper SRT GT3-R '16 : 4 pts
-* R8 LMS (Audi Sport Team WRT) '15 : 4 pts
+* R8 LMS (Audi Sport Team WRT) '15 : 6 pts
 * V12 Vantage GT3 '12 : 3 pts
 * M6 GT3 : 3 pts
 * SLS AMG GT3 '11 : 2 pts
 * Mercedes-AMG GT GT3 '16 : 1 pt
 * 650S GT3 '15 : 1 pt
 * PEUGEOT VGT (Gr.3) : 1 pt
+* Beetle Gr.3 : 1 pt
 
 ## Groupe 4
 
